@@ -4,6 +4,7 @@ Installation Process Below👇👇
 pkg update
 pkg upgrade
 pkg install git
+pip install requests
 pip install bs4
 pip install urllib
 cd Sqli-Scanner
